@@ -1,16 +1,25 @@
 {
   "name": "ReadSW",
   "version": "1.0.0",
-  "description": "AAMAK",
+  "description": "Alamak",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "WILY",
+  "author": "Wily",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
-    "qrcode-terminal": "^0.12.0"
+    "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@latest",
+    "cfonts": "^3.3.0",
+    "chalk": "^5.4.1",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "node-cache": "^5.1.2",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.8.1",
+    "url": "^0.11.4"
   }
 }
