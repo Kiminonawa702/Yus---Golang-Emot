@@ -66,7 +66,7 @@ const config = {
   // ---------------------------------------------------------------------
   // Fitur pembaruan dependensi dihidupkan
   // Mengaktifkan atau menonaktifkan fitur pembaruan dependensi.
-  enableDependencyUpdate: true,
+  enableDependencyUpdate: false,
   // ---------------------------------------------------------------------
   // Fitur penanganan uncaughtException dihidupkan
   // Mengaktifkan atau menonaktifkan penanganan uncaughtException.
@@ -79,7 +79,7 @@ const config = {
   // ---------------------------------------------------------------------
   // Fitur autoFixError dihidupkan
   // Mengaktifkan atau menonaktifkan fitur perbaikan error otomatis.
-  enableAutoFixError: true,
+  enableAutoFixError: false,
   // ---------------------------------------------------------------------
 };
 
