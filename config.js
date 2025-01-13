@@ -50,11 +50,11 @@ const config = {
   // ---------------------------------------------------------------------
   // Fitur selamat datang dihidupkan
   // Mengaktifkan atau menonaktifkan fitur selamat datang.
-  enableWelcome: false,
+  enableWelcome: true,
   // ---------------------------------------------------------------------
   // Fitur selamat tinggal dihidupkan
   // Mengaktifkan atau menonaktifkan fitur selamat tinggal.
-  enableGoodbye: false,
+  enableGoodbye: true,
   // ---------------------------------------------------------------------
   // Fitur perubahan info grup dihidupkan
   // Mengaktifkan atau menonaktifkan fitur perubahan info grup.
